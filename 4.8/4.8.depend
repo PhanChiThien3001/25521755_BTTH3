@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1777388076 source:d:\codeblocks\hoclaptrinh\4.8\main.cpp
+	<iostream>
+	<algorithm>
+
